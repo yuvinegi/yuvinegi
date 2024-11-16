@@ -1,11 +1,11 @@
  Hi there! 👋  
 
-I'm a Business Analyst passionate about transforming data into actionable insights. I'm currently expanding my expertise in data analysis to solve real-world problems with efficiency and precision.  
+I'm a Business Analyst passionate about transforming data into actionable insights. I'm expanding my data analysis expertise to solve real-world problems with efficiency and precision.  
 
 💡 Skills & Tools: 
-- Data Visualization: Power BI, Advanced Excel, Lookers Studio, SQL
-- Data Analysis: Business insights, customer retention strategies  
-- Learning: Python for data analysis, SQL  
+- **Data Visualization:** Power BI, Advanced Excel, Lookers Studio, SQL
+- **Data Analysis:** Business insights, customer retention strategies  
+- **Learning:** Python for data analysis, SQL  
 
 📈 What I Do:  
 - Analyze business trends and performance metrics  
